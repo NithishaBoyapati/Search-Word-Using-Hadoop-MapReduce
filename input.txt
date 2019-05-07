@@ -1,0 +1,1 @@
+Requests are at the core of many social media systems such as question & answer sites and online philanthropy communities. While the success of such requests is critical to the success of the community, the factors that lead community members to satisfy a request are largely unknown for donations.
